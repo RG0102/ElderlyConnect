@@ -79,7 +79,8 @@ npm start
 
 2. Backend:
 npm start
-Open your browser and navigate to http://localhost:3000 (or your specified port).
+
+3. Open your browser and navigate to http://localhost:3000 (or your specified port).
 
 ## Contact 
 For any questions or support, please reach out at suppport@elderlyconnect.org
