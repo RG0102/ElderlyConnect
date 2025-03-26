@@ -2,6 +2,7 @@
 
 ElderlyConnect is a user friendly platform designed to help elderly individuals combat loneliness by connecting them with others who share similar interests. The app not only allows users to communicate with one another though chat and group discussions but also provides a Volunteer Feature where seniors can request various types of help, from tech support to grocery assistance. 
 
+![image](https://github.com/user-attachments/assets/84d08276-d6d6-4bfd-a4c7-a11cad4a0890)
 
 ## Overview
 ElderlyConnect brings together a community of elderly users and volunteers, enabling:
