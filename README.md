@@ -43,7 +43,8 @@ ElderlyConnect brings together a community of elderly users and volunteers, enab
 
 ## Technology Stack
 1. Frontend: React, Bootstrap - ![image](https://github.com/user-attachments/assets/535571e0-d6c0-4364-95e0-daa0cc0bb319)
-   ![image](https://github.com/user-attachments/assets/90c571bb-7507-4677-8a0a-fa9c6141f4f6)
+   
+                                ![image](https://github.com/user-attachments/assets/90c571bb-7507-4677-8a0a-fa9c6141f4f6)
 3. Backend: Node.js
 4. Database: Firebase (NoSQL)
 
